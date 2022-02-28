@@ -1,0 +1,12 @@
+D:\siloam\cloning\his-lasa-managemenet-service\his-lasa-managemenet-service
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=his-lasa-managemenet-service
+--content-root=D:\siloam\cloning\his-lasa-managemenet-service\his-lasa-managemenet-service
+--file=D:\siloam\cloning\his-lasa-managemenet-service\his-lasa-managemenet-service\Pages\Error.cshtml
+--file=D:\siloam\cloning\his-lasa-managemenet-service\his-lasa-managemenet-service\Pages\Index.cshtml
+--file=D:\siloam\cloning\his-lasa-managemenet-service\his-lasa-managemenet-service\Pages\Privacy.cshtml
+--file=D:\siloam\cloning\his-lasa-managemenet-service\his-lasa-managemenet-service\Pages\Shared\_CookieConsentPartial.cshtml
+--file=D:\siloam\cloning\his-lasa-managemenet-service\his-lasa-managemenet-service\Pages\Shared\_Layout.cshtml
+--file=D:\siloam\cloning\his-lasa-managemenet-service\his-lasa-managemenet-service\Pages\Shared\_ValidationScriptsPartial.cshtml
+--file=D:\siloam\cloning\his-lasa-managemenet-service\his-lasa-managemenet-service\Pages\_ViewImports.cshtml
+--file=D:\siloam\cloning\his-lasa-managemenet-service\his-lasa-managemenet-service\Pages\_ViewStart.cshtml
